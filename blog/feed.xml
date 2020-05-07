@@ -19,7 +19,7 @@
       <name>Joseph Nix</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-300&quot; style=&quot;background-image: url(/blog/2018/5/plugin-play/spices.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-300&quot; style=&quot;background-image: url(spices.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;h2 id=&quot;get-lektor-updates&quot;&gt;Get Lektor Updates&lt;/h2&gt;&lt;p&gt;This site just updated the way it lists available plugins! Now &lt;a href=&quot;https://www.getlektor.com/plugins/&quot;&gt;https://www.getlektor.com/plugins/&lt;/a&gt; gives you a list of all known Lektor plugins in a much more interactive and informative way. This will hopefully make it much easier for you to discover plugins that are relevant to your project and your needs. If you are a plugin developer, this should also help you find examples from existing plugins to help you learn how to interact better with Lektor's plugin system.&lt;/p&gt;
@@ -40,7 +40,7 @@
       <name>Joseph Nix</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500-tall&quot; style=&quot;background-image: url(/blog/2018/1/lektor-31-released/pancakes-2020863.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500-tall&quot; style=&quot;background-image: url(pancakes-2020863.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;Lektor continues to be discovered and used by more people, and many of these fine people have given back. Lektor is now a little easier to use, and more robust with plenty of bugfixes and added support for Python 3. Let's take a brief look at what's been done, and what we want next.&lt;/p&gt;
@@ -72,7 +72,7 @@
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2016/4/lektor-2-released/banner.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(banner.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;After quite a bit of wait, I'm happy to announce the 2.0 release of Lektor.
@@ -148,7 +148,7 @@ the already existing one.&lt;/p&gt;
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2016/3/lektor-at-rails-girls-summer-of-code/banner.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(banner.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;I'm happy to announce that Lektor is participating as a project in this year's
@@ -184,7 +184,7 @@ class=&quot;js-gitter-toggle-chat-button&quot;&gt;Gitter&lt;/a&gt;.&lt;/p&gt;
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2016/3/road-to-lektor-2/header.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(header.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;It's great to see what people have been building with Lektor so far. It also
@@ -239,7 +239,7 @@ source tree.  For instance you can build feeds, blog archives etc.&lt;/li&gt;
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2015/12/travis-and-ghpages/header.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(header.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;Open Source projects need websites, that's a given, and one of the most popular
@@ -266,7 +266,7 @@ a screencast that goes with it:&lt;/p&gt;
       <name>Armin Ronacher</name>
     </author>
     <content type="html">
-&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(/blog/2015/12/hello-lektor/banner.jpg)&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;page-banner page-banner-500&quot; style=&quot;background-image: url(banner.jpg)&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;text-block text-block-default&quot;&gt;
   &lt;p&gt;About &lt;a href=&quot;http://w3techs.com/technologies/details/cm-wordpress/all/all&quot;&gt;25% of the Internet uses
